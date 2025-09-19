@@ -1,0 +1,64 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "AboutUsPage",
+            "request": "launch",
+            "mainClass": "com.superx.view.Aboutus.AboutUsPage",
+            "projectName": "login"
+        },
+        {
+            "type": "java",
+            "name": "seadmin",
+            "request": "launch",
+            "mainClass": "com.superx.Controller.Admin.seadmin",
+            "projectName": "login"
+        },
+        {
+            "type": "java",
+            "name": "setadmin",
+            "request": "launch",
+            "mainClass": "com.superx.Controller.Admmin.setadmin",
+            "projectName": "login"
+        },
+        {
+            "type": "java",
+            "name": "Storage",
+            "request": "launch",
+            "mainClass": "com.superx.view.Profile.Storage",
+            "projectName": "login"
+        },
+        {
+            "type": "java",
+            "name": "Profile",
+            "request": "launch",
+            "mainClass": "com.superx.view.Profile.Profile",
+            "projectName": "login"
+        },
+        {
+            "type": "java",
+            "name": "dashboard",
+            "request": "launch",
+            "mainClass": "com.superx.view.Dashboard.dashboard",
+            "projectName": "login"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "com.superx.Main",
+            "projectName": "login",
+            "vmArgs": "--module-path \"C:/Javafx SDK/javafx-sdk-21.0.7/lib\" --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}

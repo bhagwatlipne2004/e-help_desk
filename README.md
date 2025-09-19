@@ -95,7 +95,7 @@ E-Help Desk is a powerful desktop application that bridges the gap between citiz
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Pawan-bari/e-help-desk.git
+git clone https://github.com/bhagwatlipne2004/e-help_desk
 cd e-help-desk
 
 # 2. Install dependencies
